@@ -1,3 +1,5 @@
+package EjerciciosGuiados;
+
 import java.util.Scanner;
 
 public class Ejercicio7 {

@@ -1,3 +1,5 @@
+package EjerciciosComplementariosLevel1;
+
 import java.util.Scanner;
 
 /*Realizar un programa que solicite por consola 2 números enteros. Para luego

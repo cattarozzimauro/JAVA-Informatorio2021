@@ -1,3 +1,5 @@
+package EjerciciosComplementariosLevel1;
+
 import java.util.Scanner;
 
 /* Se desea una aplicación que solicite 2 números enteros y realice la operación

@@ -1,3 +1,5 @@
+package EjerciciosComplementariosLevel1;
+
 import java.util.Scanner;
 
 /* Confeccionar un programa que dado un número entero como dato de

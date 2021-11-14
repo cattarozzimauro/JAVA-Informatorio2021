@@ -1,3 +1,5 @@
+package EjerciciosComplementariosLevel1;
+
 import java.util.Scanner;
 
 /* Realizar un programa que dado un String de entrada en minúsculas lo

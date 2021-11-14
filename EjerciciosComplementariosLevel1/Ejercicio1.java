@@ -1,3 +1,5 @@
+package EjerciciosComplementariosLevel1;
+
 import java.util.Scanner;
 
 /* Solicitar por consola el nombre del usuario e imprimir por pantalla el siguiente

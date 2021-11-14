@@ -1,3 +1,5 @@
+package EjerciciosComplementariosLevel1;
+
 //creo una clase "Person" con los métodos get y set para los atributos Name, City, Dir y Age.
 //la misma se usa en el ejercicio 8.
 public class Person {

@@ -1,3 +1,5 @@
+package EjerciciosComplementariosLevel1;
+
 import java.util.Scanner;
 
 /* Dado un String de entrada (frase, texto, etc) calcular la cantidad de veces que

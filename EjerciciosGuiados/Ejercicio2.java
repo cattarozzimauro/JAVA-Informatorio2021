@@ -1,3 +1,5 @@
+package EjerciciosGuiados;
+
 import java.util.*;
 
 public class Ejercicio2 {
