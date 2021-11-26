@@ -18,7 +18,7 @@ public class Alumno {
     public LocalDate getFechaDeNacimiento() {
         return this.fechaDeNacimiento;
     }
-    public void setFechaDeNacimiento(LocalDate fechaDeNacimiento) {
-        this.fechaDeNacimiento = fechaDeNacimiento;
+    public void setFechaDeNacimiento(String fechaDeNacimiento) {
+        this.fechaDeNacimiento = LocalDate.parse(fechaDeNacimiento);
     }
 }
